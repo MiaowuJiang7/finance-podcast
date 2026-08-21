@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>本喵的金融小课堂</title>
+    <link>https://miaowujiang7.github.io/finance-podcast</link>
+    <language>zh-cn</language>
+    <copyright>&#169; 2026 AI主播·小喵</copyright>
+    <description>每天两三分钟，一个小故事讲透一个金融概念。从市盈率到资产配置，从定投纪律到仓位心理学，专为通勤路上想慢慢变富的你准备。投资有风险，内容仅供参考。</description>
+    <itunes:author>AI主播·小喵</itunes:author>
+    <itunes:summary>每天两三分钟，一个小故事讲透一个金融概念。从市盈率到资产配置，从定投纪律到仓位心理学，专为通勤路上想慢慢变富的你准备。投资有风险，内容仅供参考。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>AI主播·小喵</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://miaowujiang7.github.io/finance-podcast/cover.jpg"/>
+    <itunes:category text="Education"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>第02课 PB，市净率</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-02</guid>
+      <pubDate>Fri, 21 Aug 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>134</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-08-21_lesson-02.mp3" length="807392" type="audio/mpeg"/>
+      <description>每日金融小课堂，第02课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
+      <title>第01课 PE，市盈率</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-01</guid>
+      <pubDate>Fri, 21 Aug 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>129</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-08-21_lesson-01.mp3" length="777410" type="audio/mpeg"/>
+      <description>每日金融小课堂，第01课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+  </channel>
+</rss>
