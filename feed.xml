@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第03课 股息率</title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-03</guid>
+      <pubDate>Sat, 22 Aug 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>136</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-08-22_lesson-03.mp3" length="822521" type="audio/mpeg"/>
+      <description>每日金融小课堂，第03课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第02课 PB，市净率</title>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
