@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第08课 再平衡</title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-08</guid>
+      <pubDate>Thu, 27 Aug 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>139</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-08-27_lesson-08.mp3" length="839098" type="audio/mpeg"/>
+      <description>每日金融小课堂，第08课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第07课 资产配置</title>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
