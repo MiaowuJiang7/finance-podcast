@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第13课 美联储加息和降息</title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-13</guid>
+      <pubDate>Tue, 01 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>146</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-01_lesson-13.mp3" length="881630" type="audio/mpeg"/>
+      <description>每日金融小课堂，第13课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第12课 CPI和通胀</title>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
