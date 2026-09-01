@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第14课 汇率</title>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-14</guid>
+      <pubDate>Wed, 02 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>145</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-02_lesson-14.mp3" length="873834" type="audio/mpeg"/>
+      <description>每日金融小课堂，第14课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第13课 美联储加息和降息</title>
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
