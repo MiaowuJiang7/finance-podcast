@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第16课 ETF折溢价</title>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-16</guid>
+      <pubDate>Fri, 04 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>153</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-04_lesson-16.mp3" length="921986" type="audio/mpeg"/>
+      <description>每日金融小课堂，第16课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第15课 PE百分位</title>
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
