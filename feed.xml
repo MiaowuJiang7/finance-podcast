@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第17课 久期</title>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-17</guid>
+      <pubDate>Sat, 05 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>143</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-05_lesson-17.mp3" length="860861" type="audio/mpeg"/>
+      <description>每日金融小课堂，第17课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第16课 ETF折溢价</title>
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
