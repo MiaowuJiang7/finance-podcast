@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第18课 Alpha和Beta</title>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-18</guid>
+      <pubDate>Sun, 06 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>153</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-06_lesson-18.mp3" length="924157" type="audio/mpeg"/>
+      <description>每日金融小课堂，第18课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第17课 久期</title>
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
