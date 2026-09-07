@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第20课 止盈策略</title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-20</guid>
+      <pubDate>Tue, 08 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>157</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-08_lesson-20.mp3" length="944181" type="audio/mpeg"/>
+      <description>每日金融小课堂，第20课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第19课 定投微笑曲线</title>
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
