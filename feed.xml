@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第21课 仓位管理</title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-21</guid>
+      <pubDate>Wed, 09 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>152</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-09_lesson-21.mp3" length="914487" type="audio/mpeg"/>
+      <description>每日金融小课堂，第21课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第20课 止盈策略</title>
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
