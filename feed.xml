@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第22课 黑天鹅事件</title>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-22</guid>
+      <pubDate>Thu, 10 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>164</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-10_lesson-22.mp3" length="988723" type="audio/mpeg"/>
+      <description>每日金融小课堂，第22课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第21课 仓位管理</title>
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
