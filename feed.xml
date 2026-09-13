@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>第26课 行业轮动</title>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">finance-class-lesson-26</guid>
+      <pubDate>Mon, 14 Sep 2026 06:30:00 -0000</pubDate>
+      <itunes:duration>170</itunes:duration>
+      <enclosure url="https://miaowujiang7.github.io/finance-podcast/2026-09-14_lesson-26.mp3" length="1026343" type="audio/mpeg"/>
+      <description>每日金融小课堂，第26课。两三分钟，一个小故事讲透一个金融概念。</description>
+    </item>
+    <item>
       <title>第25课 估值锚</title>
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
